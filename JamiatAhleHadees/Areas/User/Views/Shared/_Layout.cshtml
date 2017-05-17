@@ -431,6 +431,26 @@
                                 </ul>
                             </li>
                         }
+
+
+                        if (User.IsInRole("User"))
+                        {
+
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-pencil-square-o"></i>
+                                    <span> My Request</span>
+                                    <span class="pull-right-container">
+                                        <i class="fa fa-angle-right pull-right"></i>
+                                    </span>
+                                </a>
+
+                                <ul class="treeview-menu">
+                                    <li><a href="~/User/UserRequest/Index"><i class="fa fa-arrow-circle-right"> User List</i></a></li>
+
+                                </ul>
+                            </li>
+                        }
                         if (User.IsInRole("BoardMember"))
                         {
                             <li class="treeview">
