@@ -825,6 +825,59 @@ C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\JamiatAhleH
 C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.dll
 C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.pdb
+<<<<<<< HEAD
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\csc.exe
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\vbc.exe
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\VBCSCompiler.exe
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\JamiatAhleHadees.dll.config
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\JamiatAhleHadees.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\JamiatAhleHadees.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\BusinessLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\CommonLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\DataAccessLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\EntityFramework.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\EntityFramework.SqlServer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\PagedList.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\PagedList.Mvc.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Helpers.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Mvc.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Razor.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Webpages.Deployment.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Webpages.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Webpages.Razor.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\FirebaseNet.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\Newtonsoft.Json.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\BusinessLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\CommonLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\DataAccessLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\DataAccessLayer.dll.config
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\EntityFramework.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\EntityFramework.SqlServer.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\PagedList.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\PagedList.Mvc.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Razor.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Webpages.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Webpages.Deployment.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Webpages.Razor.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Helpers.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\System.Web.Mvc.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\bin\Newtonsoft.Json.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.csprojResolveAssemblyReference.cache
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.pdb
+=======
 C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\bin\roslyn\csc.exe
 C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -876,3 +929,4 @@ C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\bin\Newtonsoft.Json.x
 C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.dll
 C:\Users\user\Documents\GitHub\JahTesting\JamiatAhleHadees\obj\Debug\JamiatAhleHadees.pdb
+>>>>>>> origin/master

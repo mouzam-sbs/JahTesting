@@ -245,3 +245,19 @@ C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\BusinessLay
 C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\user\Desktop\DD\New Final Colloborate\New Final Colloborate\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\CommonLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\FirebaseNet.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\CommonLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\YOUSUF-PC\Source\Repos\JahTesting\BusinessLayer\obj\Debug\BusinessLayer.pdb
