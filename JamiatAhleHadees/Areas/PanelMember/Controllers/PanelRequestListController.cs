@@ -431,31 +431,9 @@ namespace JamiatAhleHadees.Areas.PanelMember.Controllers
             bool IsPanelInvolved = new PanelInvolveBs().IsPanelInvoled(_listUser);
             int IsPanelLiked = new RequestApproveRejectBs().IsPannelMemberLiked(_listUser);
 
-            if (IsPanelLiked != 0)
-            {
-                res.PaannelMemberLikeDisLike = res.PaannelMemberLikeDisLike.Where(x => x.UserTypeId == IsPanelLiked).ToList();
-            }
+
             // List<int> PanelHeadUsers = new List<int> {6,7,8, 11,12, 13, 14, 15 };
 
-            if (useerTypeId == 6 || useerTypeId == 15)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 6 || x.UserTypeId == 15).ToList();
-            }
-            else if (useerTypeId == 7 || useerTypeId == 13)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 7 || x.UserTypeId == 13).ToList();
-
-            }
-            else if (useerTypeId == 8 || useerTypeId == 11)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 8 || x.UserTypeId == 11).ToList();
-
-            }
-            else if (useerTypeId == 12 || useerTypeId == 14)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 12 || x.UserTypeId == 14).ToList();
-
-            }
 
 
             res.IsPanelInvolved = IsPanelInvolved;
@@ -555,31 +533,9 @@ namespace JamiatAhleHadees.Areas.PanelMember.Controllers
             bool IsPanelInvolved = new PanelInvolveBs().IsPanelInvoled(_listUser);
             int IsPanelLiked = new RequestApproveRejectBs().IsPannelMemberLiked(_listUser);
 
-            if (IsPanelLiked != 0)
-            {
-                res.PaannelMemberLikeDisLike = res.PaannelMemberLikeDisLike.Where(x => x.UserTypeId == IsPanelLiked).ToList();
-            }
+
             // List<int> PanelHeadUsers = new List<int> {6,7,8, 11,12, 13, 14, 15 };
 
-            if (useerTypeId == 6 || useerTypeId == 15)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 6 || x.UserTypeId == 15).ToList();
-            }
-            else if (useerTypeId == 7 || useerTypeId == 13)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 7 || x.UserTypeId == 13).ToList();
-
-            }
-            else if (useerTypeId == 8 || useerTypeId == 11)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 8 || x.UserTypeId == 11).ToList();
-
-            }
-            else if (useerTypeId == 12 || useerTypeId == 14)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 12 || x.UserTypeId == 14).ToList();
-
-            }
 
 
             res.IsPanelInvolved = IsPanelInvolved;
@@ -628,31 +584,9 @@ namespace JamiatAhleHadees.Areas.PanelMember.Controllers
             bool IsPanelInvolved = new PanelInvolveBs().IsPanelInvoled(_listUser);
             int IsPanelLiked = new RequestApproveRejectBs().IsPannelMemberLiked(_listUser);
 
-            if (IsPanelLiked != 0)
-            {
-                res.PaannelMemberLikeDisLike = res.PaannelMemberLikeDisLike.Where(x => x.UserTypeId == IsPanelLiked).ToList();
-            }
+
             // List<int> PanelHeadUsers = new List<int> {6,7,8, 11,12, 13, 14, 15 };
 
-            if (useerTypeId == 6 || useerTypeId == 15)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 6 || x.UserTypeId == 15).ToList();
-            }
-            else if (useerTypeId == 7 || useerTypeId == 13)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 7 || x.UserTypeId == 13).ToList();
-
-            }
-            else if (useerTypeId == 8 || useerTypeId == 11)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 8 || x.UserTypeId == 11).ToList();
-
-            }
-            else if (useerTypeId == 12 || useerTypeId == 14)
-            {
-                res.PanelCommentList = res.PanelCommentList.Where(x => x.UserTypeId == 12 || x.UserTypeId == 14).ToList();
-
-            }
 
 
             res.IsPanelInvolved = IsPanelInvolved;
