@@ -79,3 +79,7 @@ C:\Users\YOUSUF-PC\Source\Repos\JahTesting\CommonLayer\bin\Debug\CommonLayer.pdb
 C:\Users\YOUSUF-PC\Source\Repos\JahTesting\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
 C:\Users\YOUSUF-PC\Source\Repos\JahTesting\CommonLayer\obj\Debug\CommonLayer.dll
 C:\Users\YOUSUF-PC\Source\Repos\JahTesting\CommonLayer\obj\Debug\CommonLayer.pdb
+C:\Users\user\Documents\GitHub\JahTesting\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\user\Documents\GitHub\JahTesting\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\user\Documents\GitHub\JahTesting\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\user\Documents\GitHub\JahTesting\CommonLayer\obj\Debug\CommonLayer.pdb
